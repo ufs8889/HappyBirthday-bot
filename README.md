@@ -22,15 +22,15 @@ Activate the virtual environment:
 ```
 .\env\Scripts\Activate.ps1
 ```
-Install all required libraries:
-```
-pip install -r requirements.txt
-```
 ## Usage
 
 Navigate to the bot directory:
 ```bash
 cd Happy_Birthday_bot/telegram_bot
+```
+Install all required libraries:
+```
+pip install -r requirements.txt
 ```
 Edit your bot's credentials in the TSHN_Happy_birthday.py file:
 
